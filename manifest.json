@@ -1,11 +1,11 @@
 {
-    "name": "user",
-    "short_name": "user",
+    "name": "H3RO3S",
+    "short_name": "H3RO3S",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A new project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
